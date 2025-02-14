@@ -1,4 +1,4 @@
 - 👋 Hi, I’m RDxRIDOY (@rd-x-ridoy)
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development.
+- 👀 I’m interested in Software Engineering & Web Development
+- 🌱 I’m currently learning C++.
 - 📫 You Can Contact With Me in : contact.rdxridoy@gmail.com
