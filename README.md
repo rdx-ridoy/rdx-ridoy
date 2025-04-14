@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm RDxRIDOY Aka Md Nur A Alom (Ridoy)</h1>
 <h3 align="center"> </h3>
 
-- :seedling: I’m currently learning **C++**
+- :seedling: I’m currently learning **--**
 
 - :man_technologist: All of my projects are available at [https://github.com/rdx-ridoy](https://github.com/rdx-ridoy?tab=repositories)
 
