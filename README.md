@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave:, I'm RDxRIDOY Aka Md Nur A Alom (Ridoy)</h1>
 <h3 align="center"> </h3>
 
-- :seedling: I’m currently learning **--**
+- :seedling: I’m currently learning **Cross Platform App Development**
 
 - :man_technologist: All of my projects are available at [https://github.com/rdx-ridoy](https://github.com/rdx-ridoy?tab=repositories)
 
@@ -14,5 +14,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
